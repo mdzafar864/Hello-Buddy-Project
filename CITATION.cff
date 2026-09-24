@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Hello Buddy: An Arduino-Based Interactive Hand-Triggered Servo Greeting Device"
+version: 1.0.0
+date-released: 2026-09-24
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+repository-code: "https://github.com/mdzafar864/Hello-Buddy-Project"
+license: MIT
+keywords:
+  - arduino
+  - servo
+  - ultrasonic-sensor
+  - iot
+  - embedded-systems
+  - hc-sr04
